@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * 测试类
+ * 测试类2
  * @author rongdc
  */
 @MyController
